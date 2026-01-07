@@ -11,11 +11,11 @@ I believe in learning by **building, breaking, and documenting**.
 ## 🧪 Labs & Projects
 - 🔐 **Networking Labs**  
   Hands-on networking labs
-  👉 https://github.com/wayne-currie/lab-writeups/networking-labs/
+  👉 https://github.com/wayne-currie/lab-writeups/tree/main/networking-labs
 
 - 🧪 **Cybersecurity Lab Writeups**  
   Structured writeups covering blue team related labs  
-  👉 https://github.com/wayne-currie/lab-writeups/security-labs
+  👉 https://github.com/wayne-currie/lab-writeups/tree/main/security-labs
 
 ---
 
@@ -43,4 +43,3 @@ I regularly write beginner-friendly cybersecurity articles focused on:
 
 ## 🤝 Let’s Connect
 - 🔗 LinkedIn: https://linkedin.com/in/wayne-currie
-- 📝 Medium: https://medium.com/@wayne-currie
