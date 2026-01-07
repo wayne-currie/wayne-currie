@@ -20,24 +20,10 @@ I believe in learning by **building, breaking, and documenting**.
 ---
 
 ## 📝 Writing & Research
-I regularly write beginner-friendly cybersecurity articles focused on:
-- Blue Team & SOC fundamentals
-- MITRE ATT&CK technique breakdowns
-- Networking concepts for security
-- Cloud & Azure security basics
-- Career guidance for aspiring cybersecurity professionals
+I regularly write beginner-friendly blue team cybersecurity articles focused on:
 
 📖 **Newsletter Archive (GitHub)**  
 👉 https://github.com/wayne-currie/cybersecurity-newsletter
-
----
-
-## 🎯 Current Focus
-- Networking fundamentals (CCNA-level)
-- Security+ concepts
-- Blue team skills & SOC tooling
-- Cloud networking & Azure security
-- Building a strong public cybersecurity portfolio
 
 ---
 
