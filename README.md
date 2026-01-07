@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Wayne Currie
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Network+Engineer;Blue+Team+Security+Enthusiast;Penetration+Testing+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Blue+Team+Security+Practitioner;Junior+Network+Engineer;Hobby:Penetration+Testing;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
