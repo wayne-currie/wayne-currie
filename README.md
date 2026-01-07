@@ -28,7 +28,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🔐 Networking Labs
+### 🔐 Networking/Cloud Labs
 
 ```yaml
 focus: Network Fundamentals
