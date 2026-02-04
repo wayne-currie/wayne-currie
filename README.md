@@ -28,15 +28,14 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🔐 Networking/Cloud Labs
+### 🔐 Networking Labs
 
 ```yaml
 focus: Network Fundamentals
 topics:
-  - Routing & Switching
+  - Networking
   - Network Security
-  - Protocol Analysis
-  - Infrastructure Design
+  - Detection Engineering
 ```
 
 <div align="center">
@@ -48,7 +47,7 @@ topics:
 </td>
 <td width="33%" valign="top">
 
-### 🛡️ Cybersecurity Labs
+### 🛡️ Network Security Labs
 
 ```yaml
 focus: Blue Team Operations
@@ -62,26 +61,6 @@ topics:
 <div align="center">
 
 **[📂 View Writeups →](https://github.com/wayne-currie/lab-writeups/tree/main/security-labs)**
-
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-### 📝 Newsletter Archive
-
-```yaml
-focus: Security Writing
-topics:
-  - Blue Team Tactics
-  - Practical Guides
-  - Threat Analysis
-  - Defense Strategies
-```
-
-<div align="center">
-
-**[📖 Read Articles →](https://github.com/wayne-currie/cybersecurity-newsletter)**
 
 </div>
 
